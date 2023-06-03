@@ -1,0 +1,20 @@
+Tell me about yourself?
+
+Thanks for the question. First of all, I would like to apologize for my poor English and Eastern European accent, but I hope you will understand me correctly. I could tell you a lot about myself and my family, but foremost, I would like to talk about my professional background.
+
+In the past, I successfully graduated from a national university in Ukraine, where I'm originally from, with a degree in enterprise economics. This allows me to have a good understanding of how any company operates, as well as its financial and business activities. I have different experience as well. In Ukraine, I grew up to technical director of a medium-sized enterprise. After moving to Germany, I worked in a call center on two major projects: Apple(MacOS, iOS devices) and Facebook. I’ve learned to get along well with different customers, and I’ve got understanding how to work large IT corporations, including their structures and main objectives.
+
+I have recently completed training at the IT Institute Starta (Tel-Ran) as a Java developer, but I continue to study IT technologies that can be useful in my future work. For example, I am currently learning Python and JavaScript React (FrontEnd) as its are very popular programming languages today.
+
+In the future, I hope to become a leading or full-stack developer. Excuse me if my story was too long. Perhaps you have some questions?
+
+
+Additional tricky questions:
+Why did you leave Ukraine if you had a good job?
+I would have never left Ukraine, but after 2014, the situation got worse, and I was forced to migrate for the physical survival of my family. I went through a remote interview process and was offered a job in Germany in technical support for company Apple.
+
+Why were you fired from your last job?
+I wasn't fired; my contract came to an end, and it wasn't renewed. I was supporting Russian-speaking customers, but the company stopped its operations in Russia and no longer needed as many employees. However, they provided me with good recommendations...
+
+Why did you study Java?
+It is one of the most popular object-oriented programming languages that I often heard before. But recently, I realized that it would be useful for me to learn Python and JS as well.
